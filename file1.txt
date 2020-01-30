@@ -1,7 +1,3 @@
 origin text
 
-this is part of develop
-
-**here goes feature1**
-
-** here goes feature2**
+New changes in develop

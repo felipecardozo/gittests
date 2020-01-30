@@ -1,3 +1,11 @@
 origin text
 
 New changes in develop
+
+doing commit 1
+
+doing commit 2
+
+doing commit 3
+
+doing commit 4
